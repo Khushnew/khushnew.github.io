@@ -7,7 +7,7 @@ This repository contains the source code for my personal portfolio website.
 The site highlights my work as a **Backend Engineer**, focusing on building **reliable, scalable, and production-ready systems** with a pragmatic engineering mindset.
 
 ## 🌐 Live Website
-https://KhushModi.github.io
+https://khushnew.github.io
 
 ---
 
