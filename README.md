@@ -59,7 +59,7 @@ Scalable pipelines for training and deploying machine learning models.
 
 ## 💼 Experience Snapshot
 
-- **Software Engineer Intern — Quality Matrix**  
+- **Software Intern to Engineer — Quality Matrix**  
   Built backend automation tools, supported AI pipelines, and debugged production systems.
 
 - **Software Engineer Intern — Panva Tech**  
